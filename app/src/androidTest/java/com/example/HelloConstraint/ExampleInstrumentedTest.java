@@ -1,4 +1,4 @@
-package com.example.myfirstapplication;
+package com.example.HelloConstraint;
 
 import static org.junit.Assert.assertEquals;
 
